@@ -1,0 +1,19 @@
+{
+  "name": "Pack_01 (Color Palette)",
+  "icons": {
+    "01.ico": "Cyan",
+    "02.ico": "Pink",
+    "03.ico": "Mint",
+    "04.ico": "Red",
+    "05.ico": "Orange",
+    "06.ico": "Lime",
+    "07.ico": "Purple",
+    "08.ico": "Dark Gray",
+    "09.ico": "Teal",
+    "10.ico": "Blue",
+    "11.ico": "Sky Blue",
+    "12.ico": "Green",
+    "13.ico": "Silver",
+    "14.ico": "Brown"
+  }
+}
